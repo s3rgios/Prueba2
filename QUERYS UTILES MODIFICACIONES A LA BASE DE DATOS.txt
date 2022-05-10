@@ -1,0 +1,2 @@
+--Eliminar columna de una tabla
+ALTER TABLE PROPIETARIO.Nombre_Tabla DROP COLUMN Nombre_Campo
